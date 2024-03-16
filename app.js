@@ -306,7 +306,7 @@ const movies = [
     },
     {
             id: 36,
-            img: "mimg/the gazi attck.jpg",
+            img: "mimg2/the gazi attck.jpg",
             down_img: "img/the-ghazi-attack-poster.webp",
             title: "The Gazi Attack",
             letter: "t",
